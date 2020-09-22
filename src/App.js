@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Container, Row, Col } from "reactstrap";
 import moment from "moment";
-import sampleData from "./data/sample.json";
 import SearchBar from "./components/Searchbar";
 import DayCard from "./components/DayCard";
 import DayDetails from "./components/DayDetails";
